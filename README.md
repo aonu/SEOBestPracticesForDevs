@@ -1,22 +1,28 @@
-# SEO Best Practices For Devs
-Build SEO optimized apps by following this best practices. Last update: **02.2022**
-# SEO Tips and best practices for developers
+# SEO Best Practices Curated for Developers
 
-Guidelines for building SEO-optimized websites curated for developers.
-
-Last update: **02.2022**
+Guidelines for new pages creation and additions/changes to existing content. Last update: **02.2022**
 
 ## Table of Contents
 
-- [SEO Best Practices For Devs](#seo-best-practices-for-devs)
-- [SEO Tips and best practices for developers](#seo-tips-and-best-practices-for-developers)
-  - [Table of Contents](#table-of-contents)
-  - [Tips and best practices](#tips-and-best-practices)
-  - [Useful links](#useful-links)
-  - [SEO tools](#seo-tools)
+1. [Measuring SEO performance](#measuring-seo-performance)
+2. [Tips and best practices](#tips-and-best-practices)
+3. [SEO tools](#seo-tools)
+4. [Useful links](#useful-links)
 
-## Tips and best practices
+## 1. Measuring SEO performance
 
-## Useful links
+## 2. Tips and best practices
 
-## SEO tools
+### 2.1 Accessibility - Help the browser and [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) understand your page
+
+### 2.2 Compliance
+
+### 2.3 Increase Browser rendering speed
+
+Data amount
+
+### 2.4 Caching resources by implementing an adequate cache policy
+
+## 3. SEO tools
+
+## 4. Useful links
