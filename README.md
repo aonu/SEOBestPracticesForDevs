@@ -11,7 +11,8 @@ Guidelines for new pages creation and additions/changes to existing content. Las
 
 ## 1. Measuring SEO performance
 
-![Capture](https://user-images.githubusercontent.com/80775241/155672190-a13d02e1-a78f-4716-9681-660f1b15d431.PNG)
+![SEO](https://user-images.githubusercontent.com/80775241/155672320-cb3f3b67-fdd2-4340-97e2-4e67e94fcb1f.PNG)
+
 
 ## 2. Tips and best practices
 
