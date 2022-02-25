@@ -4,16 +4,16 @@ Guidelines for new pages creation and additions/changes to existing content. Las
 
 ## Table of Contents
 
-1. [Measuring SEO performance](#measuring-seo-performance)
-2. [Tips and best practices](#tips-and-best-practices)
-   2.1. [Accessibility](#accessibility) - Help the browser and web crawlers understand your page
-   2.2. [Compliance](#compliance)
-   2.2. [Increase browser rendering speed](#increase-browser-rendering-speed)
-   2.4. [Caching resources by implementing an adequate cache policy](#caching-resources-by-implementing-an-adequate-cache-policy)
-   2.5. [Code quality](#code-quality)
-   2.6. [Security](#security)
-3. [SEO tools](#seo-tools)
-4. [Useful links](#useful-links)
+1. [Measuring performance](#1-measuring-performance)
+2. [Tips and best practices](#2-tips-and-best-practices)
+  2.1. [Accessibility](#21-accessibility) - Help the browser and web crawlers understand your page
+  2.2. [Compliance](#22-compliance)
+  2.2. [Increase browser rendering speed](#23-increase-browser-rendering-speed)
+  2.4. [Caching resources by implementing an adequate cache policy](#24-caching-resources-by-implementing-an-adequate-cache-policy)
+  2.5. [Code quality](#25-code-quality)
+  2.6. [Security](#26-security)
+3. [SEO tools](#3-seo-tools)
+4. [Useful links](#4-useful-links)
 
 ## 1. Measuring performance
 
@@ -31,7 +31,8 @@ In order to help us achieve the best performance for our website, immediately af
 
 ## 2. Tips and best practices
 
-### 2.1 Accessibility - Help the browser and [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) understand your page
+### 2.1 Accessibility
+>  Help the browser and [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) understand your page
 
 ### 2.2 Compliance
 
