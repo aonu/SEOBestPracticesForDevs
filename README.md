@@ -17,9 +17,9 @@ Google is the most used search engine worldwide and [Lighthouse](https://develop
 
 ![PageSpeedPerformance](https://user-images.githubusercontent.com/80775241/155672539-a309fbea-1a0a-41e0-8180-6c0fb857cc5b.PNG)
 
-The ideal result to achieve is green on each section on both Mobile and Desktop tabs. Hitting green on mobile devices is harder because, in general, they are slower than desktops, but mobiles are the most used devices in the world, this is a compelling reason to put all you efforts to reach green on those sections.
+The ideal result to achieve is green on each section on both Mobile and Desktop tabs. Hitting green on mobile devices is harder because, in general, they are slower than desktops, but mobiles are the most used devices in the world, this is a compelling reason to put all your efforts to reach green on all sections from the Mobile tab.
 
-Google is helping use to achieve the best performance for our website, immediately after the scores we will find the  **Opportunities** and **Diagnostics** sections that provides the necessary changes we need to apply in order to fix the scores.
+In order to help us achieve the best performance for our website, immediately after the scores we will find the  **Opportunities** and **Diagnostics** sections that provides the necessary changes we need to apply in order to fix the scores.
 
 
 ![SEO](https://user-images.githubusercontent.com/80775241/155672320-cb3f3b67-fdd2-4340-97e2-4e67e94fcb1f.PNG)
