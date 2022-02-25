@@ -7,7 +7,7 @@ Guidelines for new pages creation and additions/changes to existing content. Las
 1. [Measuring performance](#1-measuring-performance)
 2. [Tips and best practices](#2-tips-and-best-practices)
     - [Accessibility](#accessibility) - Help the browser and web crawlers understand your page
-    - [Compliance](#compliance)
+    - [Compliance](#compliance) - Don't use deprecated or unsecured features
     - [Increase browser rendering speed](#increase-browser-rendering-speed)
     - [Caching resources by implementing an adequate cache policy](#caching-resources-by-implementing-an-adequate-cache-policy)
     - [Code quality](#code-quality)
@@ -36,6 +36,8 @@ In order to help us achieve the best performance for our website, immediately af
 ![SEO](https://user-images.githubusercontent.com/80775241/155672320-cb3f3b67-fdd2-4340-97e2-4e67e94fcb1f.PNG)
 
 <br />
+
+Please do this check before each major deploy and make sure that you fix, where possible, all the Opportunities and Diagnostics suggestions.
 ## 2. Tips and best practices
 
 ### Accessibility
