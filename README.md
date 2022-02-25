@@ -6,12 +6,12 @@ Guidelines for new pages creation and additions/changes to existing content. Las
 
 1. [Measuring performance](#1-measuring-performance)
 2. [Tips and best practices](#2-tips-and-best-practices)
-  2.1. [Accessibility](#21-accessibility) - Help the browser and web crawlers understand your page
-  2.2. [Compliance](#22-compliance)
-  2.2. [Increase browser rendering speed](#23-increase-browser-rendering-speed)
-  2.4. [Caching resources by implementing an adequate cache policy](#24-caching-resources-by-implementing-an-adequate-cache-policy)
-  2.5. [Code quality](#25-code-quality)
-  2.6. [Security](#26-security)
+    - [Accessibility](#accessibility) - Help the browser and web crawlers understand your page
+    - [Compliance](#compliance)
+    - [Increase browser rendering speed](#increase-browser-rendering-speed)
+    - [Caching resources by implementing an adequate cache policy](#caching-resources-by-implementing-an-adequate-cache-policy)
+    - [Code quality](#code-quality)
+    - [Security](#security)
 3. [SEO tools](#3-seo-tools)
 4. [Useful links](#4-useful-links)
 
@@ -31,24 +31,24 @@ In order to help us achieve the best performance for our website, immediately af
 
 ## 2. Tips and best practices
 
-### 2.1 Accessibility
+### Accessibility
 >  Help the browser and [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) understand your page
 
-### 2.2 Compliance
+### Compliance
 
-### 2.3 Increase browser rendering speed
+### Increase browser rendering speed
 
 Data amount
 
-### 2.4 Caching resources by implementing an adequate cache policy
+### Caching resources by implementing an adequate cache policy
 
 Caching
 
-### 2.5 Code quality
+### Code quality
 
 Number of requests, SEO
 
-### 2.6 Security
+### Security
 
 ## 3. SEO tools
 
