@@ -6,12 +6,12 @@ Guidelines for new pages creation and additions/changes to existing content. Las
 
 1. [Measuring performance](#1-measuring-performance)
 2. [Tips and best practices](#2-tips-and-best-practices)
-    - [Accessibility](#accessibility) - Help the browser and web crawlers understand your page
-    - [Compliance](#compliance) - Don't use deprecated or unsecured features
-    - [Increase browser rendering speed](#increase-browser-rendering-speed)
-    - [Caching resources by implementing an adequate cache policy](#caching-resources-by-implementing-an-adequate-cache-policy)
-    - [Code quality](#code-quality)
-    - [Security](#security)
+   - [Accessibility](#accessibility) - Help the browser and web crawlers understand your page
+   - [Security and Compliance](#security-and-compliance) - Don't use deprecated or unsecured features
+   - [Increase browser rendering speed](#increase-browser-rendering-speed)
+   - [Caching resources by implementing an adequate cache policy](#caching-resources-by-implementing-an-adequate-cache-policy)
+   - [Code quality](#code-quality)
+   - [SEO](#seo)
 3. [SEO tools](#3-seo-tools)
 4. [Useful links](#4-useful-links)
 
@@ -38,26 +38,150 @@ In order to help us achieve the best performance for our website, immediately af
 <br />
 
 Please do this check before each major deploy and make sure that you fix, where possible, all the Opportunities and Diagnostics suggestions.
+
 ## 2. Tips and best practices
 
 ### Accessibility
->  Help the browser and [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) understand your page
 
-### Compliance
+#### The `<noscript>` tag
+
+#### The page defines a lang attribute
+
+#### No empty elements
+
+#### No 'refresh' <meta> tag
+
+#### No empty "src" attribute
+
+#### You specify a consistent label on your links
+
+#### The main title of the page is the first stated title
+
+#### Each form defines a submit button
+
+#### All labels refer to an element
+
+### Security and Compliance
+
+#### Use only standard image formats
+
+#### Your HTML response is not too heavy
+
+#### No frameset, frame and noframes tags detected
+
+#### No Java applets detected
+
+#### Do not use <bgsound> tag
+
+#### You do not use links to Word documents
+
+#### No deprecated attributes are detected in the <body> tag
+
+#### Your characters are encoded in UTF-8
+
+#### No Flash resource
+
+#### Define a Content Security Policy
+
+#### SSL Certificate
+
+#### Do all third-party resources deliver the right content?
+
+#### Use HTTPS
+
+#### All cookies are secure
 
 ### Increase browser rendering speed
+
+#### Your HTML response is not too heavy
+
+#### All your resources should be served from a consistent URL
+
+#### Minify all your resources
+
+#### The favicon is lightweight
+
+#### Optimizing images
+
+Reduce the files size using an optimizer
+Serve Scaled images
+Lazy loading is set
+
+#### All resources should have a size < 1MB
+
+#### No Mutation Events in your scripts
+
+#### Your JavaScript resources don't block your page loading
+
+#### A character set in the response HTTP Header
+
+#### The page does not send to many cookies and their total size is not bigger then 100kB
+
+#### You do not use CSS @import
+
+#### You do not use a useless "http-equiv" <meta> tag
+
+#### This page uses an appropriate number of DOM elements
+
+#### You don't execute the same script several times
+
+#### The page doesn't use client-side redirection
+
+Redirects should be lightweight
+
+#### Inject scripts efficiently
 
 Data amount
 
 ### Caching resources by implementing an adequate cache policy
 
-Caching
+#### Do not use too long inline scripts
+
+#### The 'Vary: Accept-Encoding' header is defined
+
+#### Caching
+
+#### You specify resource cache expiry headers
+
+#### The cache duration is greater than 48 hours
 
 ### Code quality
 
-Number of requests, SEO
+#### Resources distribution by domain
 
-### Security
+#### Only reachable resources are requested
+
+#### Don't use too much "prefetch" on the links
+
+#### Override CSS properties and avoid side effects (CSS properties are overridden, CSS selectors are duplicated, CSS selectors are not too complex)
+
+#### Don't abuse the css `!important` declaration
+
+#### Separate the CSS styles from the HTML tags
+
+#### Don't use superfluous CSS selectors
+
+#### Harmonize the CSS colors
+
+#### All resources should define their content type
+
+#### IDs within the HTML code should be unique
+
+#### `<img>` tags should use an alt attribute
+
+### SEO
+
+#### Specify a `<title>` tag and a `<meta>` description
+
+#### The page description has a right size
+
+#### The `<title>` tag is an appropriate length
+
+#### Pages defines at least one `<h1>` and `<h2>` where possible
+
+#### You use Open Graph properties
+
+#### robots.txt file should be well defined
 
 ## 3. SEO tools
 
